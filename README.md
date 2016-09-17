@@ -1,7 +1,7 @@
   DEV_ jak_boy 
   
   
-jak_boy طريقة تنصيب بـــــوت
+jak_boyطريقة تنصيب ســــورس 
  
  تابع ونفذ الخطوات بالترتيب تجنبا لمشاكل التنصيب
  
@@ -106,4 +106,4 @@ Dev_Channel : [https://telegram.me/joinchat/DGENfT8ZGVKzocjwWemt0g)
 عندكَ فكره تطوير السورس او البوت تفظل هنأَ🏿️
 You have an idea to develop Alsoors or bot prefer 🏿️
 
-(https://telegram.me/TH3BOSS)
+
