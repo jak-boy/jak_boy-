@@ -1,5 +1,5 @@
 ﻿do local _ = {
-  about_text = "🚩Welcome to jak_boy V6 For more information Subscribe to the channe: https://telegram.me/joinchat/DGENfT8ZGVKzocjwWemt0g https://github.com/moody2020/TH3BOSS\n\n🚩Dev @TH3BOSS\n\n🚩 Dev Bot @ll60Kllbot\n\n 🚩channel @llDEV1ll",
+  about_text = "🚩Welcome to jak_boy V6 For more information Subscribe to the channe: https://telegram.me/joinchat/DGENfT8ZGVKzocjwWemt0g https://github.com/jak-boy/jak_boy-\n\n🚩Dev @martn111\n\n🚩 Dev Bo @h_p_h_bot\n\n 🚩channelhttps://telegram.me/joinchat/DGENfT8ZGVKzocjwWemt0gl",
   enabled_plugins = {
      "badword",
      "admin",
